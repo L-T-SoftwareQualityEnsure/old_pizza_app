@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066962669835",
+    "project_id": "pizza-delivery-cfe91",
+    "storage_bucket": "pizza-delivery-cfe91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066962669835:android:396659569ea2a97a18120e",
+        "android_client_info": {
+          "package_name": "com.example.forth_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfJCwP6V90e7BCKou3Cb1mJFT0LwwlCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
